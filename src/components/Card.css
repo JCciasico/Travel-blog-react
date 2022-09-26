@@ -1,0 +1,23 @@
+.card{
+    display: flex;
+}
+.image{
+    width: 125px;
+    height: 168px;  
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+.card--location{
+    display: flex;
+    align-items: center;
+    column-gap: 10px;
+    padding-left: 20px;
+}
+.icon-location{
+    width: 8px;
+    height: 12px;
+}
+.card--country{
+    
+}
